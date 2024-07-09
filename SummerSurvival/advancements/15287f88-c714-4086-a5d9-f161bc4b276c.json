@@ -280,6 +280,7 @@
       "pumpkin_pie": "2024-06-08 13:26:21 -0500",
       "bread": "2024-06-07 17:22:07 -0500",
       "golden_apple": "2024-06-13 18:41:02 -0500",
+      "rotten_flesh": "2024-07-08 19:44:16 -0500",
       "glow_berries": "2024-06-07 17:52:09 -0500",
       "melon_slice": "2024-06-08 19:27:31 -0500",
       "golden_carrot": "2024-06-11 11:57:30 -0500",
@@ -9368,112 +9369,33 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "create:recipes/misc/crafting/logistics/powered_latch": {
     "criteria": {
-      "log_spam_fixer": "2024-07-05 20:25:28 -0500"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2024-07-05 20:25:30 -0500",
-      "log_spam_fixer": "2024-07-05 20:25:28 -0500"
+      "has_item": "2024-07-05 18:35:46 -0500"
     },
     "done": true
   },
-  "incendium:technical/on_kill": {
+  "create:recipes/misc/crafting/materials/rose_quartz": {
     "criteria": {
-      "log_spam_fixer": "2024-07-05 20:25:28 -0500"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-07-05 20:25:28 -0500"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-07-05 20:25:28 -0500"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-07-05 20:25:28 -0500"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-07-05 20:25:28 -0500"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-07-05 20:25:28 -0500"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-07-05 20:25:28 -0500"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-07-05 20:25:28 -0500"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-07-05 20:25:28 -0500"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-07-05 20:25:28 -0500"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/granite_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2024-07-05 18:55:18 -0500"
+      "has_item": "2024-07-05 18:35:46 -0500"
     },
     "done": true
   },
-  "mcwwindows:recipes/diorite": {
+  "create:recipes/misc/crafting/logistics/pulse_extender": {
     "criteria": {
-      "has_wood": "2024-07-05 18:38:53 -0500"
+      "has_item": "2024-07-05 18:35:46 -0500"
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_granite_brick_slab_from_stone_types_granite_stonecutting": {
+  "create:recipes/misc/crafting/logistics/pulse_repeater": {
     "criteria": {
-      "has_stone_types_granite": "2024-07-05 18:55:18 -0500"
+      "has_item": "2024-07-05 18:35:46 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_diorite": {
+  "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
     "criteria": {
-      "has_diorite": "2024-07-05 18:38:53 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-07-05 18:55:18 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-07-05 18:55:18 -0500"
+      "has_item": "2024-07-05 18:35:46 -0500"
     },
     "done": true
   },
@@ -9483,51 +9405,27 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/small_granite_brick_stairs_from_stone_types_granite_stonecutting": {
+  "minecraft:recipes/misc/brick": {
     "criteria": {
-      "has_stone_types_granite": "2024-07-05 18:55:18 -0500"
+      "has_clay_ball": "2024-07-05 18:36:41 -0500"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/diorite": {
+    "criteria": {
+      "has_wood": "2024-07-05 18:38:53 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2024-07-05 18:38:53 -0500"
     },
     "done": true
   },
   "create:recipes/building_blocks/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-07-05 18:38:53 -0500"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/combat/golden_knife": {
-    "criteria": {
-      "has_gold_ingot": "2024-07-05 20:03:21 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite_slab": {
-    "criteria": {
-      "has_granite": "2024-07-05 18:55:18 -0500"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_granite_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2024-07-05 18:55:18 -0500"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_granite_brick_stairs_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2024-07-05 18:55:18 -0500"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_granite_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2024-07-05 18:55:18 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
-    "criteria": {
-      "has_raw_copper": "2024-07-05 18:55:22 -0500"
     },
     "done": true
   },
@@ -9549,21 +9447,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/brick": {
-    "criteria": {
-      "has_clay_ball": "2024-07-05 18:36:41 -0500"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-07-05 18:38:53 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-07-05 18:55:18 -0500"
     },
     "done": true
   },
@@ -9621,57 +9507,15 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/logistics/powered_latch": {
-    "criteria": {
-      "has_item": "2024-07-05 18:35:46 -0500"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_granite_slab_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2024-07-05 18:55:18 -0500"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/granite": {
-    "criteria": {
-      "has_wood": "2024-07-05 18:55:18 -0500"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/stone_shovel_repairing": {
-    "criteria": {
-      "has_stone_shovel": "2024-07-05 18:41:07 -0500"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_granite_wall_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2024-07-05 18:55:18 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-07-05 18:38:53 -0500"
     },
     "done": true
   },
-  "create:recipes/building_blocks/small_granite_brick_slab_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2024-07-05 18:55:18 -0500"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-07-05 18:38:53 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite": {
-    "criteria": {
-      "has_granite": "2024-07-05 18:55:18 -0500"
     },
     "done": true
   },
@@ -9693,21 +9537,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/materials/rose_quartz": {
-    "criteria": {
-      "has_item": "2024-07-05 18:35:46 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2024-07-05 18:38:53 -0500"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/steak_and_potatoes": {
-    "criteria": {
-      "has_baked_potato": "2024-07-05 19:18:37 -0500"
     },
     "done": true
   },
@@ -9717,39 +9549,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/logistics/pulse_extender": {
-    "criteria": {
-      "has_item": "2024-07-05 18:35:46 -0500"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-07-05 18:38:53 -0500"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_granite_slab_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2024-07-05 18:55:18 -0500"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/logistics/pulse_repeater": {
-    "criteria": {
-      "has_item": "2024-07-05 18:35:46 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-07-05 18:55:18 -0500"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/leather_boots_repairing": {
-    "criteria": {
-      "has_leather_boots": "2024-07-05 20:13:56 -0500"
     },
     "done": true
   },
@@ -9759,15 +9561,153 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_basalt": {
+  "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
-      "has_basalt": "2024-07-05 19:01:09 -0500"
+      "has_stone": "2024-07-05 18:38:53 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/raw_copper_block": {
+  "create:recipes/building_blocks/cut_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
-      "has_raw_copper": "2024-07-05 18:55:22 -0500"
+      "has_stone_types_diorite": "2024-07-05 18:38:53 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-07-05 18:38:53 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-07-05 18:38:53 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-07-05 18:38:53 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-07-05 18:38:53 -0500"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/stone_shovel_repairing": {
+    "criteria": {
+      "has_stone_shovel": "2024-07-05 18:41:07 -0500"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/stone_axe_repairing": {
+    "criteria": {
+      "has_stone_axe": "2024-07-05 18:53:29 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-07-05 18:55:18 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-07-05 18:55:18 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-07-05 18:55:18 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-07-05 18:55:18 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_brick_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-07-05 18:55:18 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2024-07-05 18:55:18 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-07-05 18:55:18 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-07-05 18:55:18 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-07-05 18:55:18 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-07-05 18:55:18 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-07-05 18:55:18 -0500"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/granite": {
+    "criteria": {
+      "has_wood": "2024-07-05 18:55:18 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-07-05 18:55:18 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_brick_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-07-05 18:55:18 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2024-07-05 18:55:18 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-07-05 18:55:18 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-07-05 18:55:18 -0500"
     },
     "done": true
   },
@@ -9795,12 +9735,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/andesite": {
-    "criteria": {
-      "has_stone": "2024-07-05 18:38:53 -0500"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/granite_pillar_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-07-05 18:55:18 -0500"
@@ -9810,24 +9744,6 @@
   "create:recipes/building_blocks/polished_cut_granite_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-07-05 18:55:18 -0500"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2024-07-05 18:38:53 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2024-07-05 18:38:53 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_basalt": {
-    "criteria": {
-      "has_basalt": "2024-07-05 19:01:09 -0500"
     },
     "done": true
   },
@@ -9861,33 +9777,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_diorite_wall_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2024-07-05 18:38:53 -0500"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2024-07-05 18:38:53 -0500"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
-    "criteria": {
-      "kill_mob_near_sculk_catalyst": "2024-07-05 18:55:58 -0500"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_granite_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-07-05 18:55:18 -0500"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
-    "criteria": {
-      "has_item": "2024-07-05 18:35:46 -0500"
     },
     "done": true
   },
@@ -9897,9 +9789,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-07-05 18:55:22 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2024-07-05 18:55:22 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-07-05 18:55:22 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2024-07-05 18:55:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2024-07-05 19:01:09 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2024-07-05 19:01:09 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2024-07-05 19:01:09 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2024-07-05 19:18:37 -0500"
     },
     "done": true
   },
@@ -9909,21 +9843,196 @@
     },
     "done": true
   },
-  "aether:recipes/tools/stone_axe_repairing": {
+  "farmersdelight:recipes/combat/golden_knife": {
     "criteria": {
-      "has_stone_axe": "2024-07-05 18:53:29 -0500"
+      "has_gold_ingot": "2024-07-05 20:03:21 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+  "aether:recipes/combat/leather_boots_repairing": {
     "criteria": {
-      "has_diorite": "2024-07-05 18:38:53 -0500"
+      "has_leather_boots": "2024-07-05 20:13:56 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+  "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "has_raw_copper": "2024-07-05 18:55:22 -0500"
+      "log_spam_fixer": "2024-07-08 19:50:52 -0500"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2024-07-08 19:51:23 -0500",
+      "log_spam_fixer": "2024-07-08 19:50:52 -0500"
+    },
+    "done": true
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-07-08 19:50:52 -0500"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-07-08 19:50:52 -0500"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-07-08 19:50:52 -0500"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-07-08 19:50:52 -0500"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-07-08 19:50:52 -0500"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-07-08 19:50:52 -0500"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-07-08 19:50:52 -0500"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-07-08 19:50:52 -0500"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-07-08 19:50:52 -0500"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-07-08 19:50:52 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2024-07-08 19:07:15 -0500"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_cartography_table": {
+    "criteria": {
+      "has_paper": "2024-07-08 19:12:22 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2024-07-08 19:04:54 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2024-07-08 19:12:22 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2024-07-08 19:05:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-07-08 19:11:42 -0500"
+    },
+    "done": true
+  },
+  "immersive_paintings:misc/painting": {
+    "criteria": {
+      "has_item": "2024-07-08 19:12:22 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-07-08 19:11:42 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2024-07-08 19:39:51 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2024-07-08 19:04:54 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2024-07-08 19:05:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-07-08 19:12:22 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2024-07-08 19:12:22 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-07-08 19:13:15 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2024-07-08 19:12:22 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2024-07-08 19:12:22 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-07-08 19:12:22 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2024-07-08 19:39:51 -0500"
     },
     "done": true
   },
