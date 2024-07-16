@@ -14117,93 +14117,9 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-07-09 20:13:08 -0500"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-07-09 20:13:08 -0500"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-07-09 20:13:08 -0500"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-07-09 20:13:08 -0500"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-07-09 20:13:08 -0500"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-07-09 20:13:08 -0500"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-07-09 20:13:08 -0500"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-07-09 20:13:08 -0500"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-07-09 20:13:08 -0500"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-07-09 20:13:08 -0500"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-07-09 20:13:08 -0500"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-07-09 20:13:08 -0500"
-    },
-    "done": false
-  },
-  "farmersdelight:recipes/food/grilled_salmon": {
-    "criteria": {
-      "has_salmon": "2024-07-09 18:43:12 -0500"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/cyan_kitchen_counter": {
     "criteria": {
       "has_concrete": "2024-07-09 16:32:26 -0500"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/dark_oak_window": {
-    "criteria": {
-      "has_ingredient": "2024-07-09 17:41:36 -0500"
     },
     "done": true
   },
@@ -14219,64 +14135,15 @@
     },
     "done": true
   },
-  "twilightforest:progress_lich": {
-    "criteria": {
-      "twilight_scepter": "2024-07-09 19:57:02 -0500",
-      "kill_naga": "2024-07-09 19:54:27 -0500"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/combat/equipment/twilight_scepter": {
-    "criteria": {
-      "has_item": "2024-07-09 19:57:02 -0500"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/pink_kitchen_counter": {
     "criteria": {
       "has_concrete": "2024-07-09 16:32:26 -0500"
     },
     "done": true
   },
-  "twilightforest:progress_naga": {
-    "criteria": {
-      "was_in_fight": "2024-07-09 19:54:27 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/armor_stand": {
-    "criteria": {
-      "has_stone_slab": "2024-07-09 19:59:41 -0500"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/combat/equipment/arctic_chestplate": {
-    "criteria": {
-      "has_item": "2024-07-09 20:05:44 -0500"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/light_blue_kitchen_counter": {
     "criteria": {
       "has_concrete": "2024-07-09 16:32:26 -0500"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/nagastone/mossy_nagastone_stairs_right": {
-    "criteria": {
-      "has_item": "2024-07-09 19:53:56 -0500"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/misc/naga_banner_pattern": {
-    "criteria": {
-      "has_trophy": "2024-07-09 19:54:40 -0500"
-    },
-    "done": true
-  },
-  "twilightforest:twilight_hunter": {
-    "criteria": {
-      "death_tome": "2024-07-09 19:58:46 -0500"
     },
     "done": true
   },
@@ -14292,24 +14159,6 @@
     },
     "done": true
   },
-  "twilightforest:recipes/combat/equipment/arctic_boots": {
-    "criteria": {
-      "has_item": "2024-07-09 20:05:44 -0500"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/tools/charm_of_life_2": {
-    "criteria": {
-      "has_item": "2024-07-09 19:58:59 -0500"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/nagastone/mossy_nagastone_pillar": {
-    "criteria": {
-      "has_item": "2024-07-09 19:53:56 -0500"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/black_kitchen_counter": {
     "criteria": {
       "has_concrete": "2024-07-09 16:32:26 -0500"
@@ -14322,21 +14171,9 @@
     },
     "done": true
   },
-  "twilightforest:recipes/building_blocks/compressed_blocks/arctic_block": {
-    "criteria": {
-      "has_item": "2024-07-09 20:05:44 -0500"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/purple_kitchen_counter": {
     "criteria": {
       "has_concrete": "2024-07-09 16:32:26 -0500"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/combat/equipment/arctic_leggings": {
-    "criteria": {
-      "has_item": "2024-07-09 20:05:44 -0500"
     },
     "done": true
   },
@@ -14346,33 +14183,9 @@
     },
     "done": true
   },
-  "twilightforest:progress_glacier": {
-    "criteria": {
-      "previous_progression": "2024-07-09 20:07:05 -0500"
-    },
-    "done": false
-  },
   "cfm:recipes/decorations/green_kitchen_counter": {
     "criteria": {
       "has_concrete": "2024-07-09 16:32:26 -0500"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/golden_leggings_repairing": {
-    "criteria": {
-      "has_golden_leggings": "2024-07-09 19:57:47 -0500"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/nagastone/smelted_cracked_nagastone_pillar": {
-    "criteria": {
-      "has_item": "2024-07-09 19:53:56 -0500"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/crocodile": {
-    "criteria": {
-      "killed_by": "2024-07-09 17:18:06 -0500"
     },
     "done": true
   },
@@ -14382,29 +14195,11 @@
     },
     "done": true
   },
-  "twilightforest:recipes/building_blocks/nagastone/mossy_nagastone_stairs_left": {
-    "criteria": {
-      "has_item": "2024-07-09 19:53:56 -0500"
-    },
-    "done": true
-  },
-  "twilightforest:progress_trophy_pedestal": {
-    "criteria": {
-      "kill_lich": "2024-07-09 19:57:02 -0500"
-    },
-    "done": false
-  },
   "cfm:recipes/decorations/white_kitchen_counter": {
     "criteria": {
       "has_concrete": "2024-07-09 16:32:26 -0500"
     },
     "done": true
-  },
-  "twilightforest:progress_labyrinth": {
-    "criteria": {
-      "kill_lich": "2024-07-09 19:57:02 -0500"
-    },
-    "done": false
   },
   "cfm:recipes/decorations/lime_kitchen_counter": {
     "criteria": {
@@ -14418,16 +14213,149 @@
     },
     "done": true
   },
-  "twilightforest:recipes/misc/alpha_yeti_banner_pattern": {
+  "cfm:recipes/decorations/brown_kitchen_counter": {
     "criteria": {
-      "has_trophy": "2024-07-09 20:09:27 -0500"
+      "has_concrete": "2024-07-09 16:32:26 -0500"
     },
     "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2024-07-09 17:18:06 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dark_oak_window": {
+    "criteria": {
+      "has_ingredient": "2024-07-09 17:41:36 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2024-07-09 18:43:12 -0500"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2024-07-09 19:51:41 -0500"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/mossy_nagastone_stairs_right": {
+    "criteria": {
+      "has_item": "2024-07-09 19:53:56 -0500"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/mossy_nagastone_pillar": {
+    "criteria": {
+      "has_item": "2024-07-09 19:53:56 -0500"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/smelted_cracked_nagastone_pillar": {
+    "criteria": {
+      "has_item": "2024-07-09 19:53:56 -0500"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/mossy_nagastone_stairs_left": {
+    "criteria": {
+      "has_item": "2024-07-09 19:53:56 -0500"
+    },
+    "done": true
+  },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "twilight_scepter": "2024-07-09 19:57:02 -0500",
+      "kill_naga": "2024-07-09 19:54:27 -0500"
+    },
+    "done": true
+  },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "was_in_fight": "2024-07-09 19:54:27 -0500"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/naga_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2024-07-09 19:54:40 -0500"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/twilight_scepter": {
+    "criteria": {
+      "has_item": "2024-07-09 19:57:02 -0500"
+    },
+    "done": true
+  },
+  "twilightforest:progress_trophy_pedestal": {
+    "criteria": {
+      "kill_lich": "2024-07-09 19:57:02 -0500"
+    },
+    "done": false
+  },
+  "twilightforest:progress_labyrinth": {
+    "criteria": {
+      "kill_lich": "2024-07-09 19:57:02 -0500"
+    },
+    "done": false
   },
   "twilightforest:progress_yeti": {
     "criteria": {
       "previous_progression": "2024-07-09 19:57:02 -0500",
       "was_in_fight": "2024-07-09 20:07:05 -0500"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_leggings_repairing": {
+    "criteria": {
+      "has_golden_leggings": "2024-07-09 19:57:47 -0500"
+    },
+    "done": true
+  },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "death_tome": "2024-07-09 19:58:46 -0500"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/tools/charm_of_life_2": {
+    "criteria": {
+      "has_item": "2024-07-09 19:58:59 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2024-07-09 19:59:41 -0500"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/arctic_chestplate": {
+    "criteria": {
+      "has_item": "2024-07-09 20:05:44 -0500"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/arctic_boots": {
+    "criteria": {
+      "has_item": "2024-07-09 20:05:44 -0500"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/compressed_blocks/arctic_block": {
+    "criteria": {
+      "has_item": "2024-07-09 20:05:44 -0500"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/arctic_leggings": {
+    "criteria": {
+      "has_item": "2024-07-09 20:05:44 -0500"
     },
     "done": true
   },
@@ -14437,15 +14365,165 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/brown_kitchen_counter": {
+  "twilightforest:progress_glacier": {
     "criteria": {
-      "has_concrete": "2024-07-09 16:32:26 -0500"
+      "previous_progression": "2024-07-09 20:07:05 -0500"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/misc/alpha_yeti_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2024-07-09 20:09:27 -0500"
     },
     "done": true
   },
-  "twilightforest:root": {
+  "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "in_tf": "2024-07-09 19:51:41 -0500"
+      "log_spam_fixer": "2024-07-15 20:54:26 -0500"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-07-15 20:54:26 -0500"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-07-15 20:54:26 -0500"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-07-15 20:54:26 -0500"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-07-15 20:54:26 -0500"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-07-15 20:54:26 -0500"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-07-15 20:54:26 -0500"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-07-15 20:54:26 -0500"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-07-15 20:54:26 -0500"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-07-15 20:54:26 -0500"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-07-15 20:54:26 -0500"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-07-15 20:54:26 -0500"
+    },
+    "done": false
+  },
+  "valhelsia_furniture:recipes/decorations/orange_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2024-07-15 19:51:36 -0500"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2024-07-15 19:51:36 -0500"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/dark_oak_banister": {
+    "criteria": {
+      "has_item": "2024-07-15 19:51:36 -0500"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2024-07-15 19:51:36 -0500"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2024-07-15 19:51:36 -0500"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2024-07-15 19:51:36 -0500"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2024-07-15 19:51:36 -0500"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2024-07-15 19:51:36 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-07-15 19:40:16 -0500"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2024-07-15 19:51:36 -0500"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2024-07-15 19:51:36 -0500"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_blue_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2024-07-15 19:51:36 -0500"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2024-07-15 19:51:36 -0500"
     },
     "done": true
   },
